@@ -1,16 +1,6 @@
 # Ark Explorer 3.0
 
-<p align="center">
-    <img src="/ARKExplorer.png" />
-</p>
-
 > Designed and developed from the ground-up, using lean & fast developmental frameworks (Tailwind CSS & Vue.JS).
-
-[![Build Status](https://badgen.now.sh/github/status/ArkEcosystem/Explorer/develop)](https://github.com/ArkEcosystem/explorer/actions?query=branch%3Adevelop)
-[![Codecov](https://badgen.now.sh/codecov/c/github/arkecosystem/explorer)](https://codecov.io/gh/arkecosystem/explorer)
-[![License: MIT](https://badgen.now.sh/badge/license/MIT/green)](https://opensource.org/licenses/MIT)
-
-> Lead Maintainer: [Michel Kraaijeveld](https://github.com/ItsANameToo)
 
 You can access it at [https://explorer.ark.io/](https://explorer.ark.io/).
 
@@ -111,22 +101,3 @@ yarn serve --env.routerMode=history
 ```bash
 $ yarn test
 ```
-
-## Contributing
-
-- If you find any bugs, submit an [issue](../../issues) or open a [pull-request](../../pulls), helping us catch and fix them.
-- Engage with other users and developers on the [ArkEcosystem Slack](https://ark.io/slack/).
-- Join our [gitter](https://gitter.im/ark-developers/Lobby).
-- [Contribute bounties](https://github.com/ArkEcosystem/bounty-program).
-
-## Security
-
-If you discover a security vulnerability within this package, please send an e-mail to security@ark.io. All security vulnerabilities will be promptly addressed.
-
-## Credits
-
-This project exists thanks to all the people who [contribute](../../contributors).
-
-## License
-
-[MIT](LICENSE) © [ARK Ecosystem](https://ark.io)
