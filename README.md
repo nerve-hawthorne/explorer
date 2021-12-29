@@ -1,4 +1,4 @@
-# Ark Explorer 3.0
+# ATFcoin Block Explorer
 
 > Designed and developed from the ground-up, using lean & fast developmental frameworks (Tailwind CSS & Vue.JS).
 
@@ -45,8 +45,6 @@ If you are going to host your explorer instance on GitHub Pages you will need to
 ```bash
 yarn build --base https://username.github.io/repository/
 ```
-
-A running instance of the explorer on GitHub Pages can be found at https://arkecosystem.github.io/.
 
 > This step is not required if you are hosting the explorer on your "root" repository which is usually your username https://username.github.io/.
 
